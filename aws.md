@@ -59,7 +59,12 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
     - **AWS_SECRET_ACCESS_KEY**:
     - **BUCKET_NAME**:
     - **ECR_REPOSITORY_NAME**:
-    - **MONGO_DB_URL**:
+    - **GROQ_API_KEY**:
+    - **ASTRA_DB_API_ENDPOINT**:
+    - **ASTRA_DB_APPLICATION_TOKEN**:
+    - **ASTRA_DB_KEYSPACE**:
+    - **HF_TOKEN**:
+
 
 
 # 6 Install Docker on EC2 Machine.
