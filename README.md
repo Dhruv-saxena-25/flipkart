@@ -39,7 +39,10 @@ pip install -r requirements.txt
 ## AWS Develoyment
 
 - Push your entire code to github
-- Login to your AWS account Link  ```bash https://aws.amazon.com/console/```
+- Login to your AWS account Link  
+
+```bash https://aws.amazon.com/console/
+```
 - Launch your EC2 Instance
 - Configure your EC2 Instance
 - Command for configuring EC2 Instance.
