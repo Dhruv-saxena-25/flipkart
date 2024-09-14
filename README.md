@@ -77,6 +77,16 @@ git clone <.git url>
 
 - Create a .env file there
 
+```
+GROQ_API_KEY = ""
+ASTRA_DB_API_ENDPOINT = ""
+ASTRA_DB_APPLICATION_TOKEN = ""
+ASTRA_DB_KEYSPACE = "default_keyspace"
+HF_TOKEN = ""
+```
+
+
+
 ```bash
 touch .env
 ```
