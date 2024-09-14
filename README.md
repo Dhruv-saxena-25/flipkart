@@ -1,7 +1,7 @@
 # Flipkart Chat Bot 
 
 
-
+<!-- 
 ## If you don't have anaconda download from here
 ```bash 
 https://www.anaconda.com/download/success 
@@ -123,4 +123,4 @@ python3 app.py
 
 **Port 5000 0.0.0.0/0 for anywhere traffic TCP/IP protocol**
 
-- Save it and now run it again.
+- Save it and now run it again. -->
