@@ -20,8 +20,6 @@ def get_session_history(session_id: str)-> BaseChatMessageHistory:
   return store[session_id]
 
 
-
-
 vstore = data_ingestion("done")
 
 chain = generation(vstore)
