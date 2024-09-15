@@ -10,7 +10,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 - Click on Users:
     - Go to `create user`. 
     - Enter the `user name`.
-    - Now attach policies to the user: `AdministratorAccess`, `AmazonEC2ContainerRegistryFullAccess`, `AmazonEC2FullAccess`, `AmazonS3FullAccess `.
+    - Now attach policies to the user: `AdministratorAccess`, `AmazonEC2ContainerRegistryFullAccess`, `AmazonEC2FullAccess`.
     - Now click on `Next` and then click on `Create user`.
 
 - Now add `Security credentials` for the user.
@@ -21,6 +21,8 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
     - AWS Secret Access Key [****************P184]:
     - Default region name [us-east-1]:
     - Default output format [None]:
+
+
 # 2 Search for S3
 - Click on `Create bucket`.
 - Now add the `Bucket name` and keep all other information as it is.
@@ -56,8 +58,6 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
     - **AWS_ACCESS_KEY_ID**:
     - **AWS_DEFAULT_REGION**:
     - **AWS_ECR_LOGIN_URI**:
-    - **AWS_SECRET_ACCESS_KEY**:
-    - **BUCKET_NAME**:
     - **ECR_REPOSITORY_NAME**:
     - **GROQ_API_KEY**:
     - **ASTRA_DB_API_ENDPOINT**
