@@ -21,7 +21,7 @@ conda activate <env_path>
 ```bash
 source activate ./<env_name> 
 ```
-OR 
+ELSE
 ```bash
 conda activate <env_path>
 ```
