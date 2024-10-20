@@ -40,5 +40,6 @@ pip install -r requirements.txt
 
 
 ## Use setup.py for installing your local package.
+
 - <either mention -e . inside your requirements.txt Or run python setup.py install >
 
